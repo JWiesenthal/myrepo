@@ -4,4 +4,4 @@ A line I wrote on my local computer
 
 Eine Änderung
 
-Eine zweite Aenderung
+Eine zweite Änderung
